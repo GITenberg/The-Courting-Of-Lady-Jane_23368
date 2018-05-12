@@ -17,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/9246
     wikipedia: http://en.wikipedia.org/wiki/Josephine_Daskam_Bacon
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/23368#The-Courting-Of-Lady-Jane
 gutenberg_issued: '2007-11-06'
 gutenberg_type: Text
 identifiers:
